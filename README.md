@@ -4,4 +4,4 @@ Projemin fikri:
 >Ek olarak geri dönüşümde deneyimsiz olanlar için hangi mataryalleri hangi geri dönüşüm kutusuna atmamız gerektiğini söyleyen ve bunu bir oyun şeklinde öğreten bir eğitimimiz de vardır!<
 
 Projemin türü:
->Web sitesi-Yapay zeka<
+>Web sitesi-Yapay zeka
